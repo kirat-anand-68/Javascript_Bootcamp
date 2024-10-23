@@ -6,3 +6,6 @@ Math.floor(5.6)
 Math.tan(30) 
 Math.E 
 Math.random() 
+
+let Girlfriend='Ashpreet';
+Girlfriend==='Ashpreet'?console.log("Happy"):console.log("BAD");
